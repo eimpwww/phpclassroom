@@ -6,8 +6,8 @@
       <?php
         for($i=0;$i<10;$i++){
           echo "<tr>";
-          echo "<td>คอลัมน์</td>";
-          echo "<td>คอลัมน์</td>";
+          echo "<td>อิ๋ม</td>";
+          echo "<td>สวยมากทำไงดี</td>";
           echo "</tr>";
          
         }
