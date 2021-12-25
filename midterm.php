@@ -3,40 +3,40 @@
   $data = json_decode($json);
   echo"<H1><center>ตารางรายงานสถานการโควิด-19 แยกจังหวัด</center></H1>";
   echo "<br><br>";
-  echo "<body style='background-color:#003300'>";
+  echo "<body style='background-color:#b39ddb'>";
 
   echo "<center><table border='1'>";
   echo "<tr align = 'center'>";
 
-  echo "<td bgcolor='##b0120a'>"; 
+  echo "<td bgcolor='#f69988'>"; 
   echo "<b>ลำดับ</b>";
   echo "</td>"; 
 
-  echo "<td bgcolor='#2baf2b'.valign='middle'>"; 
+  echo "<td bgcolor='#a3e9a4'.valign='middle'>"; 
   echo "<b>จังหวัด</b>";
   echo "</td>";
 
-  echo "<td bgcolor='#0a8f08'>"; 
+  echo "<td bgcolor='#f69988'>"; 
   echo "<b>ผู้ป่วยใหม่</b>";
   echo "</td>";
 
-  echo "<td bgcolor='#00FF7F'>"; 
+  echo "<td bgcolor='#72d572'>"; 
   echo "<b>ผู้ป่วยรวม</b>";
   echo "</td>";
 
-  echo "<td bgcolor='#dd191d'>"; 
+  echo "<td bgcolor='#f36c60'>"; 
   echo "<b>ผู้ป่วยใหม่ในประเทศ</b>";
   echo "</td>";
-  echo "<td bgcolor='#0a7e07'>"; 
+  echo "<td bgcolor='#a3e9a4'>"; 
   echo "<b>ผู้ป่วยรวมในประเทศ</b>";
   echo "</td>";
-  echo "<td bgcolor='#dd191d'>"; 
+  echo "<td bgcolor='#f36c60'>"; 
   echo "<b>ผู้เสียชีวิตใหม่</b>";
   echo "</td>";
-  echo "<td bgcolor='#056f00'>"; 
+  echo "<td bgcolor='#a3e9a4'>"; 
   echo "<b>ผู้เสียชีวิตรวม</b>";
   echo "</td>";
-  echo "<td bgcolor='#e84e40'>"; 
+  echo "<td bgcolor='#f36c60'>"; 
   echo "<b>วันที่อัพเดต</b>";
   echo "</td>";
 
