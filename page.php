@@ -2,17 +2,17 @@
   <head>
     <style>
       body {
-        background-color: #FFCCCC;
+        background-color: greenC;
       }
       #box1{
         width: 500px;
         height: 500px;
-        background-color: #CCFF99;
+        background-color: blue;
       }
       .box2{
         width: 500px;
         height: 500px;
-        background-color: #FFFFCC;
+        background-color: red;
       }
     </style>
   </head>
