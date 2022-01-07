@@ -2,7 +2,7 @@
   <head>
     <style>
       body {
-        background-color: greenC;
+        background-color: green;
       }
       #box1{
         width: 500px;
