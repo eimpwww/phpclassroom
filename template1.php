@@ -11,15 +11,19 @@
     <style>
       #header{
         height: 160px;
-        background-color: #CC9999;
+        background-color: orange;
       }
       #sidebar{
         height: 450px;
-        background-color: #CC99CC;
+        background-color: green;
       }
       #content{
         height: 450px;
-        background-color: #CC99FF;
+        background-color: gray;
+      }
+      #footer{
+        height: 200px;
+        background-color: pink;
       }
     </style>
     
@@ -37,6 +41,11 @@
         </div>
         <div class="col-9" id="content"> <!-- คอนเท้นต์ -->
           <h1>Content</h1>
+        </div>
+      </div>
+       <div class="row">
+        <div class="col-12" id="footer"> <!-- ฟุตเตอร์ -->
+          <h1>Footer</h1>
         </div>
       </div>
     </div>  
