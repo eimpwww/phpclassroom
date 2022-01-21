@@ -11,15 +11,15 @@
     <style>
       #header{
         height: 160px;
-        background-color: #FF00CC;
+        background-color: #CC9999;
       }
       #sidebar{
         height: 450px;
-        background-color: #FFFF66;
+        background-color: #CC99CC;
       }
       #content{
         height: 450px;
-        background-color: #99FF99;
+        background-color: #CC99FF;
       }
     </style>
     
