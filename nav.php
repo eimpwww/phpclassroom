@@ -4,16 +4,23 @@
     <style>
       ul {
         list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+      }
+      li {
+        float: left;
       }
       li a {
         display: block;
-        padding: 8px 16px;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
         text-decoration: none;
-        background-color: pink;
       }
       li a:hover {
-        background-color: #555;
-        color: white;
+        background-color: #111;
       }
     </style>
   </head>
