@@ -9,7 +9,7 @@
         display: block;
         padding: 8px 16px;
         text-decoration: none;
-        background-color: orange;
+        background-color: pink;
       }
       li a:hover {
         background-color: #555;
