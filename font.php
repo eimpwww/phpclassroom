@@ -4,11 +4,11 @@
     <style>
       @font-face{
         font-family: myFont;
-        src: url(shining.woff);
+        src: url(TA16BIT-Regular.woff);
       }
       @font-face{
         font-family: myFont2;
-        src: url(.....);
+        src: url(UranusBold.woff);
       }
       #font1{
         font-family: myFont;
